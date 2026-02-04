@@ -126,6 +126,6 @@ maestro.finish_task(
     status=AutomationTaskFinishStatus.SUCCESS,
     message="Task Finished with Success.",
     total_items=100,
-    processed_items=tasks,
+    processed_items=100,
     failed_items=10,
 )
