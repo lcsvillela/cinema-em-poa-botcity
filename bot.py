@@ -17,7 +17,6 @@ class CinemaEmPoa:
         self.telegram = telegram = BotTelegramPlugin(token=token)
         self.page = None
         self.message_films = None
-        self.token = token
         self.films = {}
         self.last_time = None
         self.last_update_id = self.load_offset()
