@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Filmes de Porto Alegre no Cinema em Poa com BotCity"
-date:   2025-12-02 03:00:34 -0300
+date:   2026-02-04 03:00:34 -0300
 categories: bots, scrapping
 description: Criando um bot no Telegram para saber quais filmes estão passando com a BotCity
 image: 
